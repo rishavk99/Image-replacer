@@ -1,4 +1,5 @@
-# Image-replacer
+![](sunglassic.png)
+# Image-replacer   
 chrome extension which replaces all images on the tab with a given image.   
      
 How to Install:    
