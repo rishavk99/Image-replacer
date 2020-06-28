@@ -3,7 +3,7 @@
 A chrome extension which replaces all images on the tab with a given image.   
      
 How to Install:    
-* Clone the Image-repacer repository    
+* Clone the Image-replacer repository    
 * Open chrome and select extensions from the tools menu and enable developer mode      
 * Click on load unpacked in the extensions page 
 * Select the repo folder
